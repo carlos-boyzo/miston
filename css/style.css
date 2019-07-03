@@ -614,7 +614,7 @@ text-align:center;}
     
 }
 .sticky-wrapper.is-sticky .site-navbar .site-logo .imglogo{
-   display: block;
+
      height: 50px;
     display: block;
     margin: auto;
@@ -633,8 +633,8 @@ text-align:center;}
         .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active:after {
           background: #57eaf2; }
   .sticky-wrapper .shrink {
-    padding-top: 10px !important;
-    padding-bottom: 10px !important; }
+    padding-top: 2em !important;
+    padding-bottom: 4px !important; }
 
 /* Blocks */
 .intro-section {
