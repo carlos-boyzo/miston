@@ -621,6 +621,13 @@ text-align:center;}
     display: block;
     margin: auto;
 }
+
+
+.fwi{
+    padding:1px !important;
+    margin-right: px;
+    display: inline-block;
+}
     
 }
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li {
@@ -957,7 +964,9 @@ text-align: center;}
     .service {
       padding: 2rem; } }
 
-
+icnm.{
+    margin-left: 5px;
+}
 .map-responsive {
     overflow: hidden;
     padding-bottom: 35%;
